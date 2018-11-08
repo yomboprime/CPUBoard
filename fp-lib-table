@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name SparkFun-Connectors)(type Eagle)(uri ${KIPRJMOD}/SparkFun-Connectors/SparkFun-Connectors.lbr)(options "")(descr ""))
+  (lib (name ModifiedFootprints)(type KiCad)(uri ${KIPRJMOD}/ModifiedFootprints)(options "")(descr ""))
+)
